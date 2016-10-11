@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="L" format="1">
+  <advance width="584"/>
+  <unicode hex="004C"/>
+  <outline>
+    <contour>
+      <point x="571" y="0" type="line"/>
+      <point x="571" y="80" type="line"/>
+      <point x="175" y="80" type="line"/>
+      <point x="175" y="710" type="line"/>
+      <point x="85" y="710" type="line"/>
+      <point x="85" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="335" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="127" y="708" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="385" y="526" type="move" name="topright"/>
+    </contour>
+    <contour>
+      <point x="292" y="355" type="move" name="center"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-08-24 05:35:17 +0000</string>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

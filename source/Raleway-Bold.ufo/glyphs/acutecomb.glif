@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="acutecomb" format="1">
+  <advance width="284"/>
+  <unicode hex="0301"/>
+  <outline>
+    <contour>
+      <point x="264" y="730" type="line"/>
+      <point x="95" y="730" type="line"/>
+      <point x="45" y="588" type="line"/>
+      <point x="165" y="556" type="line"/>
+    </contour>
+    <contour>
+      <point x="155" y="730" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="105" y="526" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-08-22 14:50:22 +0000</string>
+    </dict>
+  </lib>
+</glyph>

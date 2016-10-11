@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="W.ss09" format="1">
+  <advance width="1027"/>
+  <outline>
+    <contour>
+      <point x="976" y="710" type="line"/>
+      <point x="758" y="25" type="line"/>
+      <point x="519" y="710" type="line"/>
+      <point x="497" y="710" type="line"/>
+      <point x="269" y="25" type="line"/>
+      <point x="50" y="710" type="line"/>
+      <point x="29" y="710" type="line"/>
+      <point x="258" y="0" type="line"/>
+      <point x="280" y="0" type="line"/>
+      <point x="509" y="678" type="line"/>
+      <point x="747" y="0" type="line"/>
+      <point x="769" y="0" type="line"/>
+      <point x="998" y="710" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-08-24 17:06:24 +0000</string>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

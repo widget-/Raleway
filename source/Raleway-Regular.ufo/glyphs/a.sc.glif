@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="a.sc" format="1">
+  <advance width="588"/>
+  <outline>
+    <contour>
+      <point x="99" y="0" type="line"/>
+      <point x="169" y="155" type="line"/>
+      <point x="419" y="155" type="line"/>
+      <point x="489" y="0" type="line"/>
+      <point x="574" y="0" type="line"/>
+      <point x="327" y="551" type="line"/>
+      <point x="261" y="551" type="line"/>
+      <point x="13" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="399" y="225" type="line"/>
+      <point x="187" y="225" type="line"/>
+      <point x="294" y="452" type="line"/>
+    </contour>
+    <contour>
+      <point x="529" y="10" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="294" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="294" y="522" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-08-23 06:17:08 +0000</string>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

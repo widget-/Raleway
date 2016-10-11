@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ustraitstroke-cy" format="1">
+  <advance width="539"/>
+  <unicode hex="04B1"/>
+  <outline>
+    <contour>
+      <point x="186" y="-213" type="line"/>
+      <point x="352" y="-213" type="line"/>
+      <point x="352" y="0" type="line"/>
+      <point x="486" y="0" type="line"/>
+      <point x="486" y="120" type="line"/>
+      <point x="366" y="120" type="line"/>
+      <point x="366" y="124" type="line"/>
+      <point x="545" y="526" type="line"/>
+      <point x="353" y="526" type="line"/>
+      <point x="269" y="277" type="line"/>
+      <point x="195" y="526" type="line"/>
+      <point x="-6" y="526" type="line"/>
+      <point x="172" y="124" type="line"/>
+      <point x="172" y="120" type="line"/>
+      <point x="53" y="120" type="line"/>
+      <point x="53" y="0" type="line"/>
+      <point x="186" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>10</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-08-19 07:15:57 +0000</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

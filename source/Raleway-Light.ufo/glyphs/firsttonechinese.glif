@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="firsttonechinese" format="1">
+  <advance width="380"/>
+  <unicode hex="02C9"/>
+  <outline>
+    <contour>
+      <point x="330" y="686" type="line"/>
+      <point x="330" y="706" type="line"/>
+      <point x="50" y="706" type="line"/>
+      <point x="50" y="686" type="line"/>
+    </contour>
+    <contour>
+      <point x="190" y="519" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-08-19 05:12:36 +0000</string>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

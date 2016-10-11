@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="I" format="1">
+  <advance width="218"/>
+  <unicode hex="0049"/>
+  <outline>
+    <contour>
+      <point x="119" y="0" type="line"/>
+      <point x="119" y="710" type="line"/>
+      <point x="99" y="710" type="line"/>
+      <point x="99" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="119" y="0" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="109" y="707" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="20" y="710" type="move" name="topleft"/>
+    </contour>
+    <contour>
+      <point x="110" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-08-21 05:27:54 +0000</string>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

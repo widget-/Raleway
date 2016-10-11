@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="grave" format="1">
+  <advance width="232"/>
+  <unicode hex="0060"/>
+  <outline>
+    <contour>
+      <point x="137" y="609" type="line"/>
+      <point x="194" y="629" type="line"/>
+      <point x="135" y="730" type="line"/>
+      <point x="48" y="730" type="line"/>
+    </contour>
+    <contour>
+      <point x="152" y="521" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-08-22 19:12:58 +0000</string>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

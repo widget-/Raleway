@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Gje-cy" format="1">
+  <advance width="532"/>
+  <unicode hex="0403"/>
+  <outline>
+    <component base="acute" xOffset="212" yOffset="188"/>
+    <component base="Ge-cy"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-08-22 14:54:56 +0000</string>
+    </dict>
+  </lib>
+</glyph>

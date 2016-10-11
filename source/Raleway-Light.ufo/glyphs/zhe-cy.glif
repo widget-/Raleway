@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zhe-cy" format="1">
+  <advance width="732"/>
+  <unicode hex="0436"/>
+  <outline>
+    <contour>
+      <point x="40" y="520" type="line"/>
+      <point x="200" y="271" type="line"/>
+      <point x="16" y="0" type="line"/>
+      <point x="41" y="0" type="line"/>
+      <point x="216" y="261" type="line"/>
+      <point x="356" y="261" type="line"/>
+      <point x="356" y="0" type="line"/>
+      <point x="377" y="0" type="line"/>
+      <point x="377" y="261" type="line"/>
+      <point x="517" y="261" type="line"/>
+      <point x="691" y="0" type="line"/>
+      <point x="716" y="0" type="line"/>
+      <point x="532" y="271" type="line"/>
+      <point x="692" y="520" type="line"/>
+      <point x="667" y="520" type="line"/>
+      <point x="517" y="280" type="line"/>
+      <point x="377" y="280" type="line"/>
+      <point x="377" y="519" type="line"/>
+      <point x="356" y="519" type="line"/>
+      <point x="356" y="280" type="line"/>
+      <point x="216" y="280" type="line"/>
+      <point x="65" y="520" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>10</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-08-19 07:15:57 +0000</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

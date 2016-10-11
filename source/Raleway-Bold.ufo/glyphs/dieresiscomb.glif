@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresiscomb" format="1">
+  <advance width="566"/>
+  <unicode hex="0308"/>
+  <outline>
+    <contour>
+      <point x="246" y="580" type="line"/>
+      <point x="246" y="720" type="line"/>
+      <point x="90" y="720" type="line"/>
+      <point x="90" y="580" type="line"/>
+    </contour>
+    <contour>
+      <point x="476" y="580" type="line"/>
+      <point x="476" y="720" type="line"/>
+      <point x="320" y="720" type="line"/>
+      <point x="320" y="580" type="line"/>
+    </contour>
+    <contour>
+      <point x="283" y="720" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="283" y="525" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-08-23 06:59:52 +0000</string>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

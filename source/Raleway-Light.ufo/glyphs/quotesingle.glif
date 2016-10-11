@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quotesingle" format="1">
+  <advance width="166"/>
+  <unicode hex="0027"/>
+  <outline>
+    <contour>
+      <point x="93" y="569" type="line"/>
+      <point x="93" y="710" type="line"/>
+      <point x="73" y="710" type="line"/>
+      <point x="73" y="569" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-08-19 05:12:36 +0000</string>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

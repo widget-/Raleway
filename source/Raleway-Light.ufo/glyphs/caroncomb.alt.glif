@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="caroncomb.alt" format="1">
+  <advance width="198"/>
+  <outline>
+    <contour>
+      <point x="148" y="730" type="line"/>
+      <point x="114" y="730" type="line"/>
+      <point x="50" y="657" type="line"/>
+      <point x="66" y="645" type="line"/>
+    </contour>
+    <contour>
+      <point x="49" y="519" type="move" name="_topright"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-08-24 05:36:49 +0000</string>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

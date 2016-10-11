@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="t.sc" format="1">
+  <advance width="537"/>
+  <outline>
+    <contour>
+      <point x="516" y="551" type="line"/>
+      <point x="21" y="551" type="line"/>
+      <point x="21" y="480" type="line"/>
+      <point x="229" y="480" type="line"/>
+      <point x="229" y="0" type="line"/>
+      <point x="309" y="0" type="line"/>
+      <point x="309" y="480" type="line"/>
+      <point x="516" y="480" type="line"/>
+    </contour>
+    <contour>
+      <point x="298" y="707" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="298" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-08-19 05:38:06 +0000</string>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

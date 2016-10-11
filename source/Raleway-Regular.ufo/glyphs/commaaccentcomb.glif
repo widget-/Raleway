@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="commaaccentcomb" format="1">
+  <advance width="168"/>
+  <unicode hex="0326"/>
+  <outline>
+    <contour>
+      <point x="106" y="-213" type="line"/>
+      <point x="136" y="-132" type="line"/>
+      <point x="136" y="-48" type="line"/>
+      <point x="58" y="-48" type="line"/>
+      <point x="58" y="-132" type="line"/>
+      <point x="83" y="-132" type="line"/>
+      <point x="63" y="-213" type="line"/>
+    </contour>
+    <contour>
+      <point x="100" y="0" type="move" name="_bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-08-19 05:12:36 +0000</string>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>
